@@ -34,6 +34,9 @@ st.set_page_config(
     layout="wide",
 )
 
+from src.demo.arena_style import inject_arena_css, COMPANY_COLORS, SENTIMENT_COLORS, EDGE_COLORS, PYVIS_BG, PYVIS_FONT_COLOR, ARENA
+inject_arena_css()
+
 st.title("Context Graph for Executive Communication Intelligence")
 st.caption("A Knowledge Graph Approach to Shareholder Letter Analysis  |  DBA Capstone — GGU")
 
@@ -146,8 +149,8 @@ def show_graph_visualization():
         from pyvis.network import Network
         import tempfile
 
-        net = Network(height="500px", width="100%", bgcolor="#ffffff",
-                      font_color="#333333", directed=True)
+        net = Network(height="500px", width="100%", bgcolor=PYVIS_BG,
+                      font_color=PYVIS_FONT_COLOR, directed=True)
 
         # Fetch graph structure
         with driver.session() as session:
@@ -165,11 +168,12 @@ def show_graph_visualization():
                 year = record["year"]
                 theme = record["theme"]
 
-                color = "#2196F3" if company == "Berkshire Hathaway" else "#FF9800"
+                color = COMPANY_COLORS.get(company, ARENA["warm_gray"])
                 net.add_node(company, label=company, color=color, size=30, shape="diamond")
                 net.add_node(lid, label=f"{company[:3]} {year}", color=color, size=20)
-                net.add_node(tid, label=theme[:25], color="#4CAF50" if record["sentiment"] == "positive"
-                             else "#F44336" if record["sentiment"] == "negative" else "#9E9E9E",
+                sentiment = record["sentiment"] or "neutral"
+                net.add_node(tid, label=theme[:25],
+                             color=SENTIMENT_COLORS.get(sentiment, ARENA["warm_gray"]),
                              size=15)
                 net.add_edge(company, lid, label="PUBLISHED")
                 net.add_edge(lid, tid, label="THEME")
@@ -183,7 +187,7 @@ def show_graph_visualization():
             for record in result2:
                 net.add_edge(record["from_id"], record["to_id"],
                              label=f"PARALLEL ({record['score']:.1f})",
-                             color="#E91E63", dashes=True)
+                             color=EDGE_COLORS["PARALLELS"], dashes=True)
 
         # Render
         with tempfile.NamedTemporaryFile(suffix=".html", delete=False, mode="w") as f:
@@ -237,7 +241,7 @@ free_text = st.text_input("Or ask your own question:",
                           placeholder="e.g., How did both CEOs discuss digital transformation?")
 
 # View toggle
-view = st.radio("View:", ["Side-by-Side", "Graph Only", "RAG Only", "Graph Visualization"],
+view = st.radio("View:", ["Side-by-Side", "Pipeline View", "Graph Only", "RAG Only", "Graph Visualization"],
                 horizontal=True)
 
 st.divider()
@@ -262,6 +266,9 @@ elif free_text:
 if result:
     if view == "Side-by-Side":
         display_comparison(result)
+    elif view == "Pipeline View":
+        from src.demo.pipeline_view import render_pipeline
+        render_pipeline(result, selected_demo)
     elif view == "Graph Only":
         st.subheader("Knowledge Graph Response")
         st.markdown(result.get("graph_response", "No graph response."))
