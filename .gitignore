@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+context-graph-mvp/.venv/
+context-graph-mvp/.env
+context-graph-mvp/data/raw/
+Neo4j-*.txt
+Neo4j-*.txt:Zone.Identifier

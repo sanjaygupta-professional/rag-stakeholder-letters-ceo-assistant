@@ -1,0 +1,65 @@
+[
+  {
+    "label": "Cybersecurity Risk Mitigation",
+    "description": "The letter highlights Infosys's role in providing cybersecurity services to MS Amlin, focusing on identity protection, network security, and threat management.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "backward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "Working in collaboration with MS Amlin, Infosys has been able to protect the business from evolving threats and elevate their security posture.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "AI-Powered Security Operations",
+    "description": "The letter emphasizes the use of AI and cognitive technologies in Infosys's cybersecurity solutions for threat detection and incident response.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "forward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "MS Amlin and Infosys Cybersecurity are working collaboratively to establish next-gen security operations for threat monitoring and incident response orchestration based on AI hypothesis.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Client Collaboration",
+    "description": "The letter showcases the collaborative partnership between Infosys and MS Amlin in enhancing cybersecurity and protecting against evolving threats.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Working in collaboration with MS Amlin, Infosys has been able to protect the business from evolving threats and elevate their security posture.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Integrated Reporting Framework",
+    "description": "Infosys prepares its Integrated Annual Report in accordance with international standards like GRI and SASB, demonstrating commitment to transparency.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "backward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "The Infosys Integrated Annual Report 2022-23 has been prepared in accordance with the International Integrated Reporting Framework, developed by the International Integrated Reporting Council (IIRC), the GRI Standard and SASB Standard.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Value Creation Through Capitals",
+    "description": "The report uses a capitals-based framework (Financial, Human, Intellectual, Natural, Manufactured, Social & Relationship) to explain value creation.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "The capitals, as described below, provide a holistic perspective of how short, medium and long-term value is created and preserved at Infosys.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Employee Engagement and Upskilling",
+    "description": "The letter highlights Infosys's focus on employee engagement through the 5C model and investments in upskilling and reskilling programs.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "backward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "Our 5C model for Engagement \u2013 Connect, Collaborate, Celebrate, Care, and Culture, is designed to strengthen and reinforce our culture so that it is experienced uniformly and positively by employees \u2013 remote or in office.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Sustainability and ESG Commitment",
+    "description": "Infosys emphasizes its commitment to environmental sustainability, including its carbon-neutral status and ESG Vision 2030.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Even as Infosys first turned carbon neutral in 2020 \u2013 30 years ahead of the 2050 timeline set by the Paris Agreement, we articulated our ESG Vision 2030, stating our commitment to shape and share solutions that serve the development of businesses and communities.",
+    "cross_cultural_relevance": 5
+  }
+]

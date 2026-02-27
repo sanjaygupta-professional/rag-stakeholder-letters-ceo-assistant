@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Digital Transformation Strategy",
+    "description": "Infosys positions itself as a navigator for clients in their digital transformation journeys, emphasizing the importance of understanding both new and existing technologies.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Our strategy is to be a navigator for our clients as they ideate, plan and execute their journey to a digital future.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Stakeholder Value Creation",
+    "description": "The company emphasizes its commitment to creating, sustaining, and delivering value to all stakeholders through integrated thinking and a strong code of conduct.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Our integrated thought process is engineered to create, sustain and deliver value to all our stakeholders.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "ESG Vision and Ambitions",
+    "description": "Infosys outlines its ESG Vision 2030, focusing on environmental preservation, community development, and strong governance to serve stakeholder interests.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "forward_looking",
+    "confidence_level": "aspirational",
+    "key_quote": "To shape and share solutions that serve the development of businesses and communities.",
+    "cross_cultural_relevance": 4
+  },
+  {
+    "label": "Four-Pronged Growth Strategy",
+    "description": "Infosys is pursuing a four-pronged strategy encompassing scaling agile practices, energizing people, reskilling the workforce, and expanding localization efforts.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "forward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "We have embraced a four-pronged strategy to strengthen our relevance with clients and drive accelerated value creation",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Ethical Foundation and Values",
+    "description": "The letter highlights the importance of the company's code of conduct and core values (C-LIFE) as the ethical backbone guiding day-to-day operations.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Our values inform the day-to-day running of the Company.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Dynamic Technology Landscape",
+    "description": "Infosys acknowledges the dynamic technology landscape and the need for businesses to extend existing investments while transforming and future-proofing their organizations.",
+    "sentiment_polarity": "mixed",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Today\u2019s highly dynamic technology landscape demands that business leaders address the twin imperatives of extending the value of existing investments, and transforming and future-proofing their organizations.",
+    "cross_cultural_relevance": 5
+  }
+]

@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+data/raw/
+# Keep these — needed by the deployed app:
+# data/processed/
+# data/themes/
+# data/comparisons/
+# data/chromadb/

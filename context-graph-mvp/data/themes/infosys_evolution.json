@@ -1,0 +1,38 @@
+[
+  {
+    "from_year": 2021,
+    "from_theme_label": "Digital Transformation Acceleration",
+    "to_year": 2022,
+    "to_theme_label": "Digital Transformation Strategy",
+    "evolution_description": "The focus on digital transformation accelerated in 2021 evolved into a more defined strategy for navigating clients' digital journeys in 2022.",
+    "driver": "Continued market demand for digital solutions and Infosys's strategic positioning.",
+    "years_gap": 1
+  },
+  {
+    "from_year": 2022,
+    "from_theme_label": "ESG Vision and Ambitions",
+    "to_year": 2023,
+    "to_theme_label": "Sustainability and ESG Commitment",
+    "evolution_description": "The ESG vision outlined in 2022 became a demonstrated commitment to sustainability, including carbon neutrality and specific ESG goals, in 2023.",
+    "driver": "Increasing global focus on sustainability and Infosys's progress towards its ESG goals.",
+    "years_gap": 1
+  },
+  {
+    "from_year": 2021,
+    "from_theme_label": "Data-Driven Decision Making",
+    "to_year": 2023,
+    "to_theme_label": "AI-Powered Security Operations",
+    "evolution_description": "The emphasis on data-driven decision making in 2021 evolved into the application of AI and cognitive technologies for security operations in 2023.",
+    "driver": "Advancements in AI and machine learning, coupled with the increasing sophistication of cybersecurity threats.",
+    "years_gap": 2
+  },
+  {
+    "from_year": 2022,
+    "from_theme_label": "Ethical Foundation and Values",
+    "to_year": 2023,
+    "to_theme_label": "Employee Engagement and Upskilling",
+    "evolution_description": "The focus on ethical foundations and values in 2022 evolved into a more concrete emphasis on employee engagement and upskilling programs in 2023, reflecting the practical application of those values.",
+    "driver": "Increased competition for talent and the need to maintain a strong corporate culture.",
+    "years_gap": 1
+  }
+]

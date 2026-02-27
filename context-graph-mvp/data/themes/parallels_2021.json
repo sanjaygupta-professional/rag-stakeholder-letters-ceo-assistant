@@ -1,0 +1,26 @@
+[
+  {
+    "berkshire_theme_label": "Shareholder Communication Philosophy",
+    "infosys_theme_label": "Customer Experience Enhancement",
+    "similarity_score": 0.6,
+    "parallel_description": "Both companies emphasize the importance of clear and direct communication, Berkshire with its shareholders and Infosys with its customers, to foster trust and understanding.",
+    "cultural_difference": "Berkshire focuses on equitable treatment of shareholders, reflecting a US-centric governance view, while Infosys prioritizes enhancing customer experience, aligning with a more service-oriented approach common in the IT sector.",
+    "shared_driver": "The need to maintain stakeholder confidence and loyalty in a volatile economic environment, driven by factors like inflation and geopolitical instability."
+  },
+  {
+    "berkshire_theme_label": "Business-Picking over Stock-Picking",
+    "infosys_theme_label": "Strategic Partnerships Value",
+    "similarity_score": 0.5,
+    "parallel_description": "Both companies prioritize strategic, long-term relationships, with Berkshire focusing on businesses with durable advantages and Infosys emphasizing partnerships to enhance service delivery and innovation.",
+    "cultural_difference": "Berkshire's approach reflects a value investing philosophy common in the US, while Infosys's partnership focus aligns with the collaborative nature of the global IT services industry.",
+    "shared_driver": "The need to build resilience and competitive advantage in a rapidly changing global market, requiring both careful selection of investments and strategic alliances."
+  },
+  {
+    "berkshire_theme_label": "Intrinsic Value Focus",
+    "infosys_theme_label": "Infosys Market Leadership",
+    "similarity_score": 0.55,
+    "parallel_description": "Both companies highlight their focus on long-term value creation, with Berkshire emphasizing intrinsic value and Infosys asserting its market leadership position.",
+    "cultural_difference": "Berkshire's focus on intrinsic value is rooted in a US-centric, fundamental analysis approach, while Infosys's emphasis on market leadership reflects a more competitive and growth-oriented Indian business culture.",
+    "shared_driver": "The need to demonstrate sustained performance and attract investment in a context of economic uncertainty and increasing competition."
+  }
+]

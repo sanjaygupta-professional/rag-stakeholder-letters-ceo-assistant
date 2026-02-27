@@ -1,0 +1,26 @@
+[
+  {
+    "berkshire_theme_label": "Shareholder Trust and Values",
+    "infosys_theme_label": "Stakeholder Value Creation",
+    "similarity_score": 0.7,
+    "parallel_description": "Both companies emphasize the importance of building and maintaining trust with their stakeholders, be it shareholders for Berkshire or a broader group for Infosys.",
+    "cultural_difference": "Berkshire focuses on shareholder trust, reflecting a US-centric investor-focused model, while Infosys adopts a broader stakeholder approach, potentially influenced by Indian business ethics emphasizing community and social responsibility.",
+    "shared_driver": "A general need for companies to demonstrate ethical behavior and long-term value creation to maintain investor and public confidence, especially during times of economic uncertainty."
+  },
+  {
+    "berkshire_theme_label": "Business-Picking over Stock-Picking",
+    "infosys_theme_label": "Digital Transformation Strategy",
+    "similarity_score": 0.5,
+    "parallel_description": "Both companies focus on identifying and investing in businesses (or strategies) with strong fundamentals and long-term potential, rather than engaging in short-term speculation.",
+    "cultural_difference": "Berkshire's business-picking reflects a value investing approach common in US markets, while Infosys' digital transformation strategy is tailored to the Indian IT services market and global clients' needs.",
+    "shared_driver": "The need to adapt to a changing economic and technological landscape, requiring a focus on long-term value creation rather than short-term gains."
+  },
+  {
+    "berkshire_theme_label": "Market Inefficiency Recognition",
+    "infosys_theme_label": "Dynamic Technology Landscape",
+    "similarity_score": 0.6,
+    "parallel_description": "Both companies acknowledge the dynamic and sometimes unpredictable nature of their respective markets (stock market for Berkshire, technology landscape for Infosys) and the need to adapt and capitalize on opportunities.",
+    "cultural_difference": "Berkshire's focus is on exploiting market inefficiencies in the US stock market, while Infosys navigates the rapidly evolving global technology landscape, reflecting different market contexts.",
+    "shared_driver": "The inherent uncertainty and volatility in global markets, requiring companies to be agile and responsive to change."
+  }
+]

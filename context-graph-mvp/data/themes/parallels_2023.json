@@ -1,0 +1,26 @@
+[
+  {
+    "berkshire_theme_label": "Importance of Trustworthy Management",
+    "infosys_theme_label": "Employee Engagement and Upskilling",
+    "similarity_score": 0.6,
+    "parallel_description": "Both letters emphasize the importance of their people, with Berkshire focusing on trustworthy managers and Infosys highlighting employee engagement and upskilling.",
+    "cultural_difference": "Berkshire's focus is on the character of a few key leaders, reflecting a more centralized, owner-operator model, while Infosys emphasizes broader employee engagement, reflecting a more distributed, professional services model common in Indian IT companies.",
+    "shared_driver": "The need to retain talent and ensure effective leadership in a competitive global market."
+  },
+  {
+    "berkshire_theme_label": "Shareholder Communication Philosophy",
+    "infosys_theme_label": "Integrated Reporting Framework",
+    "similarity_score": 0.7,
+    "parallel_description": "Both companies prioritize transparent communication, with Berkshire focusing on direct shareholder communication and Infosys emphasizing integrated reporting according to international standards.",
+    "cultural_difference": "Berkshire's communication style is informal and direct, reflecting Buffett's personality, while Infosys adopts a more structured and standardized reporting approach, aligning with global corporate governance norms.",
+    "shared_driver": "Increasing demand for corporate transparency and accountability from investors and stakeholders globally."
+  },
+  {
+    "berkshire_theme_label": "Long-Term Investment Strategy",
+    "infosys_theme_label": "Value Creation Through Capitals",
+    "similarity_score": 0.65,
+    "parallel_description": "Both companies demonstrate a commitment to long-term value creation, with Berkshire focusing on enduring business economics and Infosys using a capitals-based framework to explain value creation.",
+    "cultural_difference": "Berkshire's long-term view is rooted in a concentrated portfolio of established businesses, while Infosys's long-term view is tied to its ability to adapt and innovate in the rapidly evolving technology landscape, reflecting the different industry dynamics.",
+    "shared_driver": "The need to demonstrate sustainable value creation to investors in an environment of increasing short-term market pressures."
+  }
+]

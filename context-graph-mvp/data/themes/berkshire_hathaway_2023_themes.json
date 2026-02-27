@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Charlie Munger's Enduring Influence",
+    "description": "The letter emphasizes Charlie Munger's pivotal role as the architect of Berkshire Hathaway's success and Buffett's deep respect for his guidance.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "backward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "In reality, Charlie was the \u201carchitect\u201d of the present Berkshire, and I acted as the \u201cgeneral contractor\u201d to carry out the day-by-day construction of his vision.",
+    "cross_cultural_relevance": 3
+  },
+  {
+    "label": "Shareholder Communication Philosophy",
+    "description": "Berkshire prioritizes direct, honest communication with long-term shareholders, avoiding typical investor relations fluff and focusing on delivering both good and bad news.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "We cherish their presence and believe they are entitled to hear every year both the good and bad news, delivered directly from their CEO and not from an investor-relations officer or communications consultant forever serving up optimism and syrupy mush.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Focus on Operating Earnings",
+    "description": "The letter stresses the importance of operating earnings as a more accurate reflection of Berkshire's performance than GAAP net earnings, which are distorted by unrealized capital gains/losses.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "At Berkshire, our view is that \u201cearnings\u201d should be a sensible concept that Bertie will find somewhat useful \u2013 but only as a starting point \u2013 in evaluating a business.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Long-Term Investment Strategy",
+    "description": "Berkshire's strategy centers on owning businesses with enduring economics and deploying capital at high returns, emphasizing patience and avoiding short-term market fluctuations.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Our goal at Berkshire is simple: We want to own either all or a portion of businesses that enjoy good economics that are fundamental and enduring.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Challenges of Size and Scale",
+    "description": "The letter acknowledges that Berkshire's immense size makes it increasingly difficult to find acquisition opportunities that can significantly impact its overall performance.",
+    "sentiment_polarity": "mixed",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Those days are long behind us; size did us in, though increased competition for purchases was also a factor.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Importance of Trustworthy Management",
+    "description": "The letter highlights the necessity of having able and trustworthy managers running the businesses Berkshire owns, acknowledging past disappointments and the difficulty of judging character.",
+    "sentiment_polarity": "mixed",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "We also hope these favored businesses are run by able and trustworthy managers, though that is a more difficult judgment to make, however, and Berkshire has had its share of disappointments.",
+    "cross_cultural_relevance": 5
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Long-Term Investing Success",
+    "description": "The letter emphasizes the power of long-term investments in businesses with favorable economics and trustworthy management, exemplified by Coca-Cola and American Express.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Over time, it takes just a few winners to work wonders.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Capital Allocation Prudence",
+    "description": "Buffett acknowledges that most of his capital allocation decisions have been only so-so, highlighting the importance of a few truly good decisions and luck.",
+    "sentiment_polarity": "mixed",
+    "temporal_orientation": "backward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "In 58 years of Berkshire management, most of my capital-allocation decisions have been no better than so-so.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Shareholder Trust and Values",
+    "description": "The letter expresses gratitude for the enduring trust of Berkshire's shareholders, emphasizing their philanthropic nature and focus on long-term value creation.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "present",
+    "confidence_level": "definitive",
+    "key_quote": "We are grateful for their enduring trust, a relationship that often spans much of their adult lifetime.",
+    "cross_cultural_relevance": 4
+  },
+  {
+    "label": "Business-Picking over Stock-Picking",
+    "description": "Buffett clarifies that Berkshire focuses on investing in businesses with strong fundamentals rather than engaging in short-term stock trading.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "present",
+    "confidence_level": "definitive",
+    "key_quote": "Charlie and I are not stock-pickers; we are business-pickers.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Market Inefficiency Recognition",
+    "description": "The letter acknowledges that stock markets are not always efficient and that opportunities arise from mispricing, particularly for long-term investors.",
+    "sentiment_polarity": "neutral",
+    "temporal_orientation": "present",
+    "confidence_level": "definitive",
+    "key_quote": "It\u2019s crucial to understand that stocks often trade at truly foolish prices, both high and low.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Operating Earnings Success",
+    "description": "Berkshire's operating earnings reached a record high in 2022, demonstrating the company's financial strength.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "backward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "Berkshire had a good year in 2022.",
+    "cross_cultural_relevance": 5
+  }
+]

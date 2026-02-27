@@ -1,0 +1,29 @@
+[
+  {
+    "from_year": "2021",
+    "from_theme_label": "Shareholder Communication Philosophy",
+    "to_year": "2023",
+    "to_theme_label": "Shareholder Communication Philosophy",
+    "evolution_description": "The theme of direct and honest communication with shareholders is consistently emphasized, highlighting the importance of transparency and avoiding typical investor relations fluff.",
+    "driver": "Consistent company philosophy and commitment to long-term shareholder relationships.",
+    "years_gap": 2
+  },
+  {
+    "from_year": "2021",
+    "from_theme_label": "Business-Picking over Stock-Picking",
+    "to_year": "2022",
+    "to_theme_label": "Business-Picking over Stock-Picking",
+    "evolution_description": "The emphasis on investing in businesses with strong fundamentals rather than short-term stock trading remains a core principle, reinforcing Berkshire's long-term investment strategy.",
+    "driver": "Consistent investment philosophy and avoidance of speculative market activities.",
+    "years_gap": 1
+  },
+  {
+    "from_year": "2022",
+    "from_theme_label": "Long-Term Investing Success",
+    "to_year": "2023",
+    "to_theme_label": "Long-Term Investment Strategy",
+    "evolution_description": "The success of long-term investing evolves into a broader discussion of Berkshire's overall investment strategy, emphasizing enduring economics and high returns on capital.",
+    "driver": "Continued focus on long-term value creation and the need to articulate the core investment principles.",
+    "years_gap": 1
+  }
+]

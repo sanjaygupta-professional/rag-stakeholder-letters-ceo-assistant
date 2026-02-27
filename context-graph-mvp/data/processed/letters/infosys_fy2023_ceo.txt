@@ -1,0 +1,469 @@
+MS AMLIN: INSIGHTS TO NAVIGATE FROM RISK MANAGEMENT
+TO STRATEGIC RESILIENCE
+Organizations in the insurance industry have recently security, vulnerability management and governance,
+been severely targeted by threat actors due to the along with risk and compliance management. The
+huge volume of personally identifiable information platform-centric approach for security tools and
+and sensitive customer financial data. To date, more controls are embedded with cognitive AI-modeled
+than 100 million users have had their personally use cases and playbooks for advanced threat
+identifiable information compromised in this sector, detection and response.
+making cybersecurity an utmost priority.
+Identity is now a crucial aspect of cybersecurity;
+MS Amlin is a leading insurer and reinsurer and is part if compromised, it can trigger many lethal server
+of the global top-10 insurance group MS&AD, with attacks. Infosys has, for MS Amlin, mitigated the risk of
+three main legal entities’ operating in the Lloyd’s, UK, identify management by implementing SSO – single
+Continental European and Bermudian markets. With a sign-on and reconciliation of privileged accounts.
+300-year record, MS Amlin delivers quality service for Infosys has also helped implement multi-factor
+businesses facing the most complex and demanding authentication and privilege access management
+risks. Their areas of operation are mostly property & with industry-leading and best-of-breed products
+casualty, marine and reinsurance markets. and solutions.
+MS Amlin has chosen Infosys as their cybersecurity Network detection and response has also been
+service provider to ensure comprehensive operationalized for MS Amlin to get deep and
+security services powered by cognitive next-gen detailed insights on the anomalies in their
+ACCELERATING THE AI-FIRST
+security operations. environment.
+JOURNEY FOR YOUR ENTERPRISE
+Infosys offers enterprise-wide security controls Working in collaboration with MS Amlin, Infosys has
+to secure MS Amlin’s IT estate, including identity been able to protect the business from evolving
+protection, network security, workplace and workload threats and elevate their security posture.
+“Modern enterprises, with their digital footprint growing beyond
+traditional perimeters, are becoming soft targets for cybersecurity
+attacks. To be risk-resilient, enterprises must embed security by
+design and embrace next-gen cognitive threat management
+solutions. MS Amlin and Infosys Cybersecurity are working
+collaboratively to establish next-gen security operations for
+threat monitoring and incident response orchestration based on
+AI hypothesis.”
+Andy Hodgson
+CISO, MS Amlin
+12 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 13
+
+Contents
+16 About this report
+Corporate overview
+18 About Infosys
+19 Global presence
+20 The Infosys Board of Directors
+26 The Infosys leadership team
+Performance overview
+28 Business highlights
+30 Chairman’s message
+32 Letter to the Shareholder
+34 Awards and ecognitions
+r
+Approaching value creation
+38 Our business context
+40 Strategy
+42 Value creation model
+Delivering value
+44 Financial Capital
+46 Human Capital
+48 Intellectual Capital
+50 Natural Capital
+52 Manufactured Capital
+54 Social and Relationship Capital
+Statutory reports
+58 Board’s report
+70 Annexures to the Board’s report
+100 Management’s discussion and analysis
+117 Corporate governance report
+155 Investor contacts
+157 Risk management report
+161 Business Responsibility and Sustainability Report
+205 CEO and CFO certification
+Financial statements
+206 Standalone
+290 Consolidated
+For an interactive digital experience of the report, visit:
+https://www.infosys.com/content/dam/infosys-web/en/investors/reports-filings/
+annual-report/annual/documents/integrated-annual-report2022-23/index.html
+14 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 15
+
+About this report
+An introduction to the report Our capitals
+Infosys adopted the Global Reporting Initiative (GRI) Auditors’ reports
+The capitals, as described below, provide a holistic perspective of how short, medium and long-term value is created
+principles to disclose performance on non-financial The Auditors’ Report for fiscal 2023 from Deloitte Haskins
+and preserved at Infosys. The capitals are simultaneously inter-dependent and mutually beneficial as they create
+aspects of the business 15 years ago and became the & Sells LLP, Chartered Accountants (ICAI Firm Registration
+synergy across the organization. Our strategy and ESG framework help to channel all inputs through the capitals to
+first IT company to publish sustainability performance Number 117366W/ W-100018) does not contain any manifest into the most impactful outputs and outcomes for all stakeholders.
+in accordance with the GRI G4 (comprehensive) criteria qualification, reservation or adverse remark. The Report is
+in 2014. enclosed with the financial statements in this Integrated
+This is the second Integrated Annual Report of Infosys Annual Report.
+Limited. Our Integrated Annual Report provides a The Secretarial Auditors’ Report for fiscal 2023 from
+comprehensive overview of our company’s performance Makarand M. Joshi of Makarand M. Joshi & Co., Company
+and progress over the past year. It includes quantitative Secretaries, does not contain any qualification, reservation Financial Capital Human Capital Intellectual Capital
+and qualitative disclosures on material topics, such as or adverse remark. The Secretarial Auditors’ Report is
+financial performance, environmental sustainability, social enclosed as Annexure 5 to the Board’s report. We obtain our Financial Capital through Nurturing talent for the future is Our Intellectual Capital is driven by
+responsibility, and our relationship with our stakeholders. the funds generated from our business essential for our continued success. agility, flexibility, and innovation.
+Independent assurance operations and financing activities. Our 5C model for Engagement – We are committed to working
+It also describes our strategy, leadership commitment and
+Our strong performance on the back Connect, Collaborate, Celebrate, Care, with experts, academia, and other
+culture that celebrates people, performance and purpose. Select non-financial sustainability disclosures in this
+of meticulous execution over the years, and Culture, is designed to strengthen stakeholders to develop new products
+Integrated Annual Report are verified by KPMG Assurance
+The Infosys Integrated Annual Report 2022-23 has been as reflected in the combination of and reinforce our culture so that it is and services that meet the needs
+prepared in accordance with the International Integrated and Consulting Services LLP. The Independent Assurance high growth and profitability, has led experienced uniformly and positively of our customers and communities.
+Statement for our BRSR disclosures is available as part of to building a strong, debt-free, and by employees – remote or in office. With iCETS, the Living Labs, and the
+Reporting Framework, developed by the International
+this Integrated Annual Report. liquid Balance Sheet. Our focus is on We have long-established paths for Infosys Innovation Network, we have
+Integrated Reporting Council (IIRC), the GRI Standard and
+ensuring a sustainable and profitable employee upskilling and reskilling, and a broad portfolio of solutions across
+SASB Standard. This report also includes the Business Management’s review financial position. our efforts have been well rewarded, industry segments. The Infosys Prize
+Responsibility and Sustainability Report (BRSR), prepared in This Integrated Annual Report has been reviewed and providing value to our people and us. and Aarohan Social Innovation awards
+accordance with the guidelines issued by the Securities and recognize outstanding achievements
+approved, for publication, by the Management of the
+Exchange Board of India (SEBI). We have also mapped our by researchers and scholars and provide
+Company.
+a platform for innovators and social
+contribution to the Sustainable Development Goals (SDGs)
+Feedback entrepreneurs, respectively.
+through the Infosys ESG Vision and ambitions.
+The financial and statutory data disclosed in the Share your feedback about the report to
+statutory sections of this report meet the requirements investors@infosys.com
+of the Companies Act, 2013 (including the rules made
+thereunder) and applicable SEBI Regulations.
+Natural Capital Manufactured Capital Social and Relationship
+Climate action has been a key focus As strong advocates of environmental Capital
+area for our Natural Capital. We have stewardship extending beyond
+Our Social and Relationship Capital
+been at the forefront of the ESG our boundaries, our Manufactured
+guides us as we bring the interests
+movement and became carbon- Capital includes our energy efficient
+of our stakeholders to the fore. As
+neutral in 2020 – 30 years ahead of the offices, data centers, innovation hubs,
+enterprises focus on reshaping
+timeline set by the Paris Agreement. digital studios, and our technology
+their businesses to prepare for the
+Today, we incorporate environmental infrastructure across the globe. With
+digital era, we are helping our clients
+considerations into everything that we the highest-rated green buildings
+drive transformation and sustain
+do, as we power the journey towards a on our campuses and investments
+gain from their large-scale business
+sustainable world for all. in collaborative tech infrastructure,
+transformation efforts. Our Foundations
+we offer productive, safe and healthy
+focus on CSR efforts globally across
+workplaces for employees, clients and
+the domains of education, healthcare,
+contractors.
+women empowerment, sustainability,
+rural development, art and culture,
+and disaster relief. Our social ambition
+focuses on serving the development
+of people by shaping a future with
+meaningful opportunities for all.
+16 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 17
+
+Corporate overview
+About Infosys
+Our Purpose
+To amplify human potential
+and create the next
+opportunity for people,
+businesses and communities
+Our Values
+Our Company’s Code of Conduct
+stands on the strong foundation
+set by our values, encapsulated in
+the acronym C-LIFE.
+Client value
+Infosys is a global leader in next- pioneered the Global Delivery Model
+To surpass client expectations
+generation digital services and and became the first IT company
+consistently consulting. We enable clients in more from India to be listed on NASDAQ.
+than 56 countries to navigate their
+Even as Infosys first turned carbon
+digital transformation. Leadership by example
+neutral in 2020 – 30 years ahead of
+To set standards in our business
+With over four decades of experience the 2050 timeline set by the Paris
+in managing the systems and Agreement, we articulated our ESG and transactions and be an
+workings of global enterprises, Vision 2030, stating our commitment exemplar for the industry and
+we expertly steer clients, as they to shape and share solutions that ourselves
+navigate their digital transformation serve the development of businesses
+powered by the cloud. We enable and communities. This reaffirms
+Integrity and transparency
+them with an AI-powered core, our long-standing commitments
+To be ethical, sincere and open in
+empower the business with agile focused across core areas including
+digital at scale and drive continuous climate change, technology for all our transactions
+improvement with always-on good, diversity and inclusion,
+learning through the transfer of energizing local communities, ethics Fairness
+digital skills, expertise, and ideas and transparency, data privacy and
+To be objective and transaction-
+from our innovation ecosystem. information management.
+oriented, and thereby earn trust
+We are deeply committed to being
+and respect a well-governed, environmentally
+3,43,234
+sustainable organization where
+diverse talent thrives in an inclusive Employees Excellence
+workplace. To strive relentlessly, constantly
+Established in 1981, from a capital of 1,872 improve ourselves, our teams, our
+US$250, we have grown to become a services and products to become Active clients
+company with a market capitalization
+the best
+of approximately US$72.35 billion.
+`1,46,767 cr
+In our journey of over 40 years, we
+have catalyzed India’s transformation Total revenues in fiscal 2023
+into the global destination for
+software services talent. We
+18 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 19
+weivrevo
+etaroproC
+*ecneserp
+labolG
+dnalniF
+kramneD
+nedewS
+sdnalrehteN
+aivtaL
+KU
+adanaC
+ainauhtiL
+yawroN
+cilbupeR
+hcezC
+dnalerI
+dnaloP
+muigleB
+airtsuA
+gruobmexuL
+aitaorC ainamoR
+ynamreG
+ASU
+napaJ
+ainemrA
+ecnarF
+aeroK
+htuoS
+anihC
+yekruT
+lagutroP nietsnethceiL
+ocixeM
+rataQ
+learsI
+atlaM
+nawiaT
+gnoK
+gnoH
+aidnI
+EAU
+aibarA
+iduaS
+ylatI
+ociR
+otreuP
+yragnuH
+aciR
+atsoC
+senippilihP
+aikavolS dnalreztiwS
+aisyalaM
+eropagniS
+aibreS
+ureP
+airagluB
+lizarB
+niapS
+suitiruaM
+elihC
+ailartsuA
+anitnegrA
+acirfA
+htuoS
+etarepo
+ew
+erehw
+seirtnuoC
+dnalaeZ
+weN
+yhpargoeg
+yb
+euneveR
+32-2202
+snoigeR
+%8.16
+aciremA
+htroN
+472
+,enuP
+ni
+eciffo
+tnemtrapa
+llams
+a
+ni
+snoitarepo
+sti
+nageb
+sysofnI
+%7.52
+eporuE
+.stnenitnoc
+xis
+ssorca
+seciffo
+evah
+ew
+,yadoT
+.1891
+ni
+,aidnI
+seciffo
+fo
+.oN
+tisiv
+,snoitacol
+labolg
+ruo
+fo
+sliated
+roF
+65
+%9.9
+dlroW
+eht
+fo
+tseR
+fdp.3202ecneserp-labolg/stnemucod/sgnilif-stroper/srotsevni/moc.sysofni.www//:sptth
+%6.2
+aidnI
+seirtnuoc
+fo
+.oN
+3202
+,92
+yaM
+fo
+sa*
+
+Corporate overview
+The Infosys Board of Directors
+Note: The Board and Committee composition is as of March 31, 2023.
+Nandan M. Nilekani Salil Parekh Bobby Parikh Chitra Nayak
+Chairman Chief Executive Officer and Managing Director Independent Director Independent Director
+Chairperson Chairperson
+Audit Committee Environmental, Social and Governance Committee
+Member Member
+Risk Management Committee Corporate Social Responsibility Committee
+Stakeholders Relationship Committee Risk Management Committee
+Stakeholders Relationship Committee
+D. Sundaram Michael Gibbs Govind Iyer Uri Levine
+Lead Independent Director Independent Director Independent Director Independent Director*
+Chairperson Chairperson Chairperson Member
+Nomination and Remuneration Committee Stakeholders Relationship Committee Corporate Social Responsibility Committee Corporate Social Responsibility Committee
+Risk Management Committee Cybersecurity Risk Sub-committee Environmental, Social and Governance Committee
+Risk Management Committee
+Member Member Member
+Cybersecurity Risk Sub-committee
+Audit Committee Audit Committee Nomination and Remuneration Committee
+Stakeholders Relationship Committee Nomination and Remuneration Committee Environmental, Social and Governance Committee
+* Retired on April 19, 2023
+Cybersecurity Risk Sub-committee Risk Management Committee Risk Management Committee
+Cybersecurity Risk Sub-committee
+20 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 21
+
+The Infosys Board of Directors
+Nandan M. Nilekani
+Chairman and Non-Executive and D. Sundaram
+Non-Independent Director (Promoter) Lead Independent Director
+Age: 67 Age: 70
+Nationality: Indian Nationality: Indian
+Date of appointment Board memberships – Indian listed companies Areas of expertise Date of appointment Board memberships – Indian listed companies Areas of expertise
+August 24, 2017 Infosys Limited: Non-Executive and • Financial July 14, 2017 Infosys Limited: Independent Director • Financial
+Tenure on Board Non-Independent Director • Diversity Date of reappointment Crompton Greaves Consumer Electricals Limited: • Diversity
+5.6 years Committee details (1)(2) • Global business July 14, 2022 Independent Director • Global business
+• Leadership GlaxoSmithKline Pharmaceuticals Limited: • Leadership
+Member: Nil
+Term ending date Chairperson: Nil • Information Technology Tenure on Board Independent Director • Information Technology
+• Cybersecurity 5.7 years • Cybersecurity
+NA
+• Board service & governance Committee details (1)(2) • Board service & governance
+Shareholding • Sales & marketing Term ending date Member: 5 • Sustainability & ESG
+4,07,83,162 shares (0.98%) • Sustainability & ESG July 13, 2027 Chairperson: 2 • Risk management
+• Risk management • Mergers & Acquisitions
+Shareholding
+• Mergers & Acquisitions
+Nil
+Read full profile at: https://www.infosys.com/about/management-profiles/nandan-nilekani.html
+Read full profile at: https://www.infosys.com/about/management-profiles/d-sundaram.html
+Salil Parekh
+Chief Executive Officer and Michael Gibbs
+Managing Director Independent Director
+Age: 58 Age: 65
+Nationality: Indian Nationality: American
+Date of appointment Board memberships – Indian listed companies Areas of expertise Date of appointment Board memberships – Indian listed Areas of expertise
+January 02, 2018 Infosys Limited: Executive Director • Financial July 13, 2018 companies • Financial
+• Diversity Infosys Limited: Independent Director • Diversity
+Date of reappointment Committee details (1)(2) Date of reappointment
+• Global business • Global business
+July 01, 2022 Member: Nil • Leadership July 13, 2021 Committee details (1)(2) • Leadership
+Tenure on Board Chairperson: Nil • Information Technology Tenure on Board Member: 2 • Information Technology
+5.2 years • Cybersecurity 4.7 years Chairperson: 1 • Cybersecurity
+• Board service & governance • Board service & governance
+Term ending date • Sales & marketing Term ending date • Sales & marketing
+March 31, 2027 • Sustainability & ESG July 12, 2026 • Sustainability & ESG
+• Risk management • Risk management
+Shareholding Shareholding
+• Mergers & Acquisitions • Mergers & Acquisitions
+7,86,658 shares (0.02%) Nil
+Read full profile at: https://www.infosys.com/about/management-profiles/salil-parekh.html Read full profile at: https://www.infosys.com/about/management-profiles/michael-gibbs.html
+1. In the committee details provided, every chairpersonship is also considered as a membership. 1. In the committee details provided, every chairpersonship is also considered as a membership.
+2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are (“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are
+considered. considered.
+3. Details are as of March 31, 2023. 3. Details are as of March 31, 2023.
+22 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 23
+
+The Infosys Board of Directors
+Bobby Parikh Govind Iyer
+Independent Director Independent Director
+Age: 59 Age: 60
+Nationality: Indian Nationality: Indian
+Date of appointment Board memberships – Indian listed companies Areas of expertise Date of appointment Board memberships – Indian listed companies Areas of expertise
+July 15, 2020 Infosys Limited: Independent Director • Financial January 12, 2023 Infosys Limited: Independent Director • Diversity
+Biocon Limited: Independent Director • Diversity • Global business
+Tenure on Board Indostar Capital Finance Limited: Independent • Global business Tenure on Board Committee details (1)(2) • Leadership
+2.7 years Director • Leadership 0.2 years Member: Nil • Cybersecurity
+Chairperson: Nil
+• Information Technology • Board service & governance
+Term ending date Committee details (1)(2) Term ending date
+• Board service & governance • Sales & marketing
+July 14, 2023 Member: 7 January 11, 2028
+• Sales & marketing • Sustainability & ESG
+Chairperson: 4
+Shareholding • Sustainability & ESG Shareholding • Risk management
+6,887 shares (0.00%) • Risk management 991 shares (0.00%)
+• Mergers & Acquisitions
+Read full profile at: https://www.infosys.com/about/management-profiles/bobby-parikh.html Read full profile at: https://www.infosys.com/about/management-profiles/govind-iyer.html
+Chitra Nayak Uri Levine
+Independent Director Independent Director
+Age: 60 Age: 58
+Nationality: American Nationality: Israeli
+Date of appointment Board memberships – Indian listed companies Areas of expertise Date of appointment Board memberships – Indian listed companies Areas of expertise
+March 25, 2021 Infosys Limited: Independent Director • Diversity April 20, 2020 Infosys Limited: Independent Director • Diversity
+• Global business • Global business
+Tenure on Board Committee details (1)(2) Tenure on Board Committee details (1)(2)
+• Leadership • Leadership
+2 years Member: 1 2.9 years Member: Nil
+• Information Technology • Information Technology
+Chairperson: Nil Chairperson: Nil
+• Cybersecurity • Cybersecurity
+Term ending date Term ending date
+• Board service & governance • Board service & governance
+March 24, 2024 April 19, 2023
+• Sales & marketing • Sales & marketing
+Shareholding • Sustainability & ESG Shareholding • Sustainability & ESG
+Nil • Risk management Nil • Risk management
+• Mergers & Acquisitions • Mergers & Acquisitions
+Read full profile at: https://www.infosys.com/about/management-profiles/chitra-nayak.html Read full profile at: https://www.infosys.com/campaigns/profile-uri-levine.html
+1. In the committee details provided, every chairpersonship is also considered as a membership. 1. In the committee details provided, every chairpersonship is also considered as a membership.
+2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are (“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are
+considered. considered.
+3. Details are as of March 31, 2023. 3. Details are as of March 31, 2023.
+24 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 25

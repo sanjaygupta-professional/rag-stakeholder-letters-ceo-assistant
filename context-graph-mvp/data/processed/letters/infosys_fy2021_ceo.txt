@@ -1,0 +1,456 @@
+Microsoft Corporation: Delivering data to drive
+in-depth support for cloud solutions
+The ongoing health crisis has created, for the • Automating the service activation process
+technology industry, an upsurge in demand – • Providing a holistic and unified view of customer
+especially for digital and cloud solutions. With recovery, health metrics
+across industries, taking an increasingly digital
+• Enabling monitoring rigor
+turn, this demand is only slated to multiply. For the
+• Automating root cause analysis and improving
+hyperscale cloud providers, while this is clearly an
+support for critical incidents
+opportunity, it also brings with it the challenges of
+fulfilling the sudden sharp spike in already burgeoning Microsoft’s outcomes are telling and amply quantified
+demand without impacting the delivery of customer in metrics ranging from service efficiencies to customer
+support and experience. satisfaction:
+• Over 200 premium customers were onboarded with
+Microsoft, the fastest growing amid peers in its
+new programs
+category, has been investing in creating new Azure
+Data Centers to fulfill the demand for Azure Core • Automation of root cause analysis reducing the
+Cloud Computing, Azure Data Services, Dynamics analysis cycle time by over 75% (from four weeks to
+365 and Microsoft 365. Microsoft has also recently one week)
+announced industry-specific cloud-based solutions • The highly customizable customer onboarding
+founded on Microsoft Azure, in addition to Microsoft portal, supporting service activations, slashed
+Power Platform tools and other Microsoft services average onboarding time for a customer by more
+to provide industry-specific workflows, standards than 50% (from 3-6 months to just 42 days)
+and components. Microsoft advancements in Azure
+• The overall customer satisfaction index was
+Data products like Azure Data Bricks and Synapse
+significantly positively impacted
+as Data drives enterprise growth. The last mile, for
+Microsoft has found value in the systematic mapping
+them, is about enhancing support experience for their
+of diverse customer personas within each client
+customers by ensuring solution quality and limiting
+organization that this framework and program has
+business disruptions.
+enabled. This has mitigated dependence, in many
+Microsoft Enhanced Support Services group, in
+cases, on buy-side procurement managers as the only
+partnership with Infosys, accelerated the journey to
+source of customer feedback. Now Microsoft has a
+differentiate the Microsoft support experience by
+richer source of insights that includes an understanding
+leveraging customer data across 350+ SharePoint
+of customer-decision influencers and end customers
+destinations, for:
+further down the value chain. Data continues to pave
+• Streamlining contractual agreements
+the path to excellence for Microsoft.
+Nimesh Kocheta
+Vice President and Senior Manager –
+Client Services, Infosys
+“Infosys has not only been a great partner successfully and continuously delivering against our defined outcomes,
+but as well a great sparring partner, challenging our current way of working! We look forward to continuing and
+increasing our strategic partnership supporting our people, customers and organization alike.”
+Thomas Steiner
+Senior Business Program Manager, Microsoft
+8 | Section Name Infosys Annual Report 2020-21 Infosys Annual Report 2020-21 Build that one data cloud to power your now and next | 9
+
+LivePerson: Riding the cloud for growth acceleration
+LivePerson, a global leader in Conversational AI SMS, websites, apps, and the messaging channels they
+providing much-needed capability for conversational use every day. The partnership will enable brands to
+engagement, commerce and care for all industry unlock higher growth by combining Infosys Cobalt – a
+segments, was experiencing significant business set of services, solutions and platforms to accelerate an
+growth due to increasing digitization from brands and enterprise’s journey into the cloud – with LivePerson’s
+wanted to leverage cloud to: Conversational Cloud, a complete set of applications
+• Capture increasing demand for Conversational AI and APIs for creating and managing conversational
+and enable rapid business growth at scale experiences. The key areas this strategic partnership
+• Enable access to rapidly-growing rich feature sets of will focus on include:
+cloud systems • Direct-to-consumer conversations on consumers’
+preferred messaging channels – including Apple
+• Stay consistently in the fast lane to meet the
+Business Chat, Google’s Business Messages,
+emerging dynamics of the market
+Facebook Messenger, WhatsApp, and brand
+• Disrupt competition through cutting-edge
+websites and apps – for marketing, sales and
+technologies to propel innovation and additional
+fulfillment, and customer service
+business functionality
+• New messaging experiences for employees
+LivePerson partnered with Infosys for the planned to support business continuity, HR, finance,
+digital transformation of LivePerson’s core revenue- and IT queries, drafting off Infosys’ strength in
+generating business platform. Infosys is leveraging transforming these functional areas within large
+its dynamic Cobalt services to deliver accelerated enterprises
+transformation at scale, and performance on Cloud.
+• The cloud, conversational AI, digital consulting, and
+This transformation will deliver unique platform
+global delivery services to build, run, integrate, and
+capabilities for high resilience and consistent
+scale immersive experiences for brands.
+performance to their global customer base.
+With the cloud future-proofing that this will provide,
+Infosys has also established a 360° partnership with
+LivePerson will significantly grow every year in its
+LivePerson to help global brands manage AI-powered
+ability to deliver on its value proposition: Messaging
+conversations with consumers and employees over
+solutions trusted by the world’s largest brands.
+Anant Adya
+Senior Vice President and Group Practice
+Engagement Manager, Infosys
+“Together with Infosys’ transformational services and cloud capabilities, we can redefine how the world’s major
+brands communicate with consumers and engage their employees. Our Conversational Cloud includes a full set of
+APIs and integration points that Infosys can help architect and weave throughout a large enterprise’s systems and
+processes to generate the maximum sales impact and cost savings from conversational experiences. LivePerson
+will benefit from Infosys’ partnership by continuing to scale our Conversational Cloud to meet consumers’ growing
+demand for these experiences.”
+Rob LoCascio
+CEO and Founder, LivePerson
+10 | Section Name Infosys Annual Report 2020-21 Infosys Annual Report 2020-21 Get proven industry cloud blueprints to rev up business growth | 11
+
+28 66 148
+Board’s report Management’s Standalone financial
+discussion and statements
+Results of our operations and state of affairs
+analysis
+Business description Index
+Human resources management Industry structure and developments Independent Auditors’ Report
+Contents 14
+Corporate governance Opportunities and threats Annexure A to the Independent Auditors’
+Report
+Audit reports and auditors Financial condition
+Annexure B to the Independent Auditors’
+Corporate social responsibility Results of our operations
+The future of enterprise: Report
+Infosys Environment Social and Governance Outlook, risks and concerns
+Driven by hybrid work, digital Balance Sheet
+Annual Report Acknowledgments Internal control systems and their adequacy
+acceleration and cloud Statement of Profit and Loss
+2020-21 Material developments in human resources
+40 Statement of Changes in Equity
+/ industrial relations, including number of
+16
+people employed Statement of Cash Flows
+Other details Overview and notes to the financial statements
+Annexures to the
+Letter to the Shareholder 95 212
+Board’s report
+18 Annexure 1:
+Statement containing the salient features Corporate Consolidated
+of the financial statements of subsidiaries /
+associate companies / joint ventures governance report financial statements
+Sharing an equitable and
+Annexure 2:
+Our corporate governance philosophy Index
+sustainable digital future Particulars of contracts / arrangements made
+with related parties Board composition Independent Auditors’ Report
+21 Annexure 3: Board of Directors Annexure A to the Independent Auditors’
+Report
+Particulars of employees Board and executive leadership compensation
+Consolidated Balance Sheet
+Annexure 4: Board meetings
+Consolidated Statement of Profit and Loss
+The Infosys Board of Directors Corporate governance compliance certificate Board committees
+Consolidated Statement of Changes in Equity
+Annexure 5:
+Corporate social responsibility
+22 Secretarial audit report for the financial year Consolidated Statement of Cash Flows
+Risk management report
+ended March 31, 2021
+Overview and notes to the consolidated
+Shareholder information
+Annexure 6: financial statements
+The Infosys leadership team Annual report on CSR activities 147
+283
+Annexure 7:
+24 Conservation of energy, research and
+development, technology absorption, foreign
+CEO and CFO
+exchange earnings and outgo Business
+Annexure 8: certification responsibility report
+Awards and recognition
+Corporate policies
+298
+26
+Investor contacts
+Financial highlights
+Infosys Annual Report 2020-21 Infosys Annual Report 2020-21
+
+The future of enterprise: Driven by hybrid work,
+digital acceleration and cloud
+Even in the midst of the most tumultuous time that the Finally, investments in our people have ensured that
+world has seen in over a century, we can look at Infosys’ our employees have access to the latest digital skills
+performance for fiscal 2021 with quiet satisfaction. and are embracing agile ways of working. We have
+Infosys has delivered industry-leading growth and is launched the Infosys Expanded Stock Ownership
+in pole position for another year of market-leading Program 2019, become more global, diverse, and
+performance as we start looking at the post-pandemic, deeply engaged with our widely dispersed teams in
+post-cloud era. more than 50 countries working from their homes. We
+have created a strong leadership pipeline to work with
+What is it that our company is doing differently that
+trained and motivated employees who have more than
+is enabling us to be a market leader when several
+proven their mettle working through the pandemic.
+veterans around us struggle?
+Beyond business, Infosys has been at the forefront
+First and foremost, under our CEO, Salil Parekh, ably
+of the ESG movement and became carbon-neutral
+supported by the global senior leadership, Infosys has
+in 2020 – 30 years ahead of the timeline set by the
+transformed into a very client-focused company. Our
+Paris Agreement.
+stable and motivated leadership is working quietly
+and without fuss to ensure Infosys is the partner of The proactive action that Infosys has taken, over the
+choice for the world’s top companies as they navigate last three and a half years, has decisively enabled
+their next in these uncertain and rapidly changing us to set the narrative for the global digital services
+“The company is
+times. This has led to unprecedented transformational and consulting industry. Infosys will continue to
+large deals. innovate and is well-placed to lead the industry in the
+investing in designing coming years.
+Second, the company is investing in designing and
+developing the right solutions required for accelerating Today the world is simultaneously seeing three
+and developing the digital transformation. Be it Infosys CobaltTM for major transitions – the pandemic-induced model for
+cloud solutions, modernization without disruption, hybrid work which requires new ways to collaborate,
+big data and analytics, applied AI and automation, orchestrate and deliver, the technology transformation
+right solutions required
+cybersecurity, consumerization of user experience, or driven by cloud, and the digital acceleration of business
+a robust innovation ecosystem – these have struck the models that are changing the way we live, work,
+right chord with our clients who are keen to assimilate play, and relate to one another over digital channels.
+for accelerating digital
+new ideas to reinvent themselves and become more Never before have our clients so overwhelmingly
+like digital natives. expressed the need for a voice of clarity in the chaos
+transformation.” and confusion. They are vocal in their ask for a partner
+Third, the reinvention and modernization of Infosys’
+who puts clients’ best interests over their own and for a
+own digital infrastructure has prepared the company
+thought leader who can navigate them to their future.
+well to enable our employees to work from home
+Nandan M. Nilekani Our company is committed to being that partner
+seamlessly and be highly productive with digital
+Chairman for our clients and will work on this promise with
+tools made available at their fingertips. It has also
+relentless execution.
+brought greater credibility to the transformation we
+propose to our clients – as these principles of the Live
+Enterprise have emerged and evolved from our own
+hard experience.
+14 | The future of enterprise: Driven by hybrid work, digital acceleration and cloud Infosys Annual Report 2020-21 Infosys Annual Report 2020-21 The future of enterprise: Driven by hybrid work, digital acceleration and cloud | 15
+
+Letter to the Shareholder
+Dear Shareholder,
+My sincere wishes that each of you is safe and well in expansion of three points over the previous year. We
+these times. generated approximately US$ 3 billion of free cash flow.
+Our earnings per share grew by 17% over the previous
+Over this past year, we were extremely focused to
+year in rupee terms. We have awarded dividend of
+ensure the safety and wellbeing of our over 250,000
+US$ 1.5 billion for the full year and announced a share
+employees. Our efforts have been wide-ranging,
+buyback of US$ 1.2 billion. Our total shareholder return,
+holistic, and global. In India, we have set up vaccination
+over the past three years, is the highest among our
+centers at our campuses, COVID-19 care centers
+peer group.
+across several locations, collaborated with hospitals,
+ambulance services, providing oxygen supply, Our leadership team came together as One Infosys
+medicines, and support for our employees and their and has been united and focused on ensuring we were
+families. We have expanded our financial commitment delivering what our clients need. Our cross-functional
+towards COVID-19 relief efforts to ` 200 crore, teams have brought the best of all our capabilities
+supporting the communities around us. As I write this, together by working in unison, to support and drive
+we are starting to see a decline in active cases and a the digital transformation journeys of our clients.
+gradual increase in vaccinations in India. Demonstrating client relevance has become one of our
+“The capabilities main differentiators.
+Globally, to support our employees during this
+challenging period, we have implemented wellbeing We turned carbon-neutral in the past year, thirty years
+that we have built initiatives that range from expert help for mental ahead of the global guidelines. We have enhanced our
+health to prioritizing better work-life balance. We have ESG commitments by outlining Infosys ESG Vision 2030
+virtually engaged with our employees through 900 to continue our focus on shaping and sharing solutions
+over the past three
+initiatives, as employees continue to work remotely. that serve businesses and communities.
+In this current business environment, the Company For me, it is a matter of pride to see the commitment
+years, including delivered exceptional results. Our clients have been and dedication that our employees displayed
+expanding their work with us, especially in the areas during this year to serve our clients. I am extremely
+of digital and cloud. The capabilities that we have grateful to them, our clients, the leadership team, our
+differentiated
+built over the past three years, including differentiated Board members, and all our well-wishers, who have
+offerings like Infosys CobaltTM, are what large enterprises supported us with their trust and guidance through
+offerings like Infosys are looking for. Our market-leading capabilities in data this most challenging year.
+and analytics, cybersecurity, AI, automation, and IoT
+As I look ahead, I am more optimistic than ever of
+are enabling us to be a critical partner for our clients.
+the enormous opportunity ahead of us. Technology,
+CobaltTM, are what
+Our acquisitions in the past year – GuideVision, Blue
+especially digital and cloud, continue to be at the
+Acorn, Kaleidoscope, and Carter Digital – have helped
+center of change for large enterprises globally. We are
+further strengthen our digital portfolio. We are rapidly
+large enterprises are among the best-positioned companies to partner with
+becoming an integral part of the digital and cloud
+these enterprises and help them accelerate their digital
+transformation journeys of our clients.
+journey to realize their objectives.
+looking for.”
+As a result, we had industry-leading growth in the past
+Thank you for your support and guidance. Take care
+financial year, at 5% in constant currency. Our digital
+and stay safe.
+business grew by 29% and now accounts for 52% of
+Salil Parekh With warm regards,
+the overall Company revenues in the fourth quarter. We
+Chief Executive Officer
+had over US$ 14 billion of large deals in the past year, Sd/-
+and Managing Director
+the highest in our history. We have continued to gain Salil Parekh
+market share. Our operating margins were at 24.5%, an Bengaluru Chief Executive Officer
+May 16, 2021 and Managing Director
+16 | Letter to the Shareholder Infosys Annual Report 2020-21 Infosys Annual Report 2020-21 Letter to the Shareholder | 17
+
+ESG Vision and Ambitions 2030
+Shape and share solutions that serve the development of businesses and communities
+Sharing an equitable and
+Environment Social
+sustainable digital future
+Vision Vision
+Serve the preservation of our planet Serve the development of people by
+by shaping and sharing technology shaping a future with meaningful
+solutions opportunities for all
+Infosys has always put sustainability at the heart of its and developed the lens further in a more practical and
+Material topics Material topics
+business approach. Our ability to fulfill and exceed our comprehensive manner, to broaden our ESG focus and
+responsibility to our stakeholders today and tomorrow rank our priorities in order of their importance to our
+Climate change Enabling digital talent at scale
+is a testament to our commitment. business and our stakeholders. In October 2020, we
+launched our ESG Vision and Ambitions for 2030. Leverage technology to support the transition to a Facilitate skilling to ensure progress for all
+2020 marked a milestone year for the Company. We
+low-carbon world
+turned carbon-neutral, 30 years ahead of the global Our focus will be steadfast on battling climate change, Ambitions
+targets, fulfilling the vision of our founders towards conserving water and managing waste. On the social Ambitions • Extending digital skills to 10 Mn+ people, including
+sustainable growth. In 2011, Infosys made a voluntary front, our emphasis will be on the development of • Maintaining carbon neutrality across Scope 1, 2 and employees, clients’ workforce, students, teachers
+commitment to the United Nations to become carbon people, especially around digital skilling, improving 31 emissions every year and communities (2025)
+neutral. We have since then embraced ambitious diversity and inclusion, delivering technology for good
+• Reducing absolute Scope 1 and 2 greenhouse gas
+goals and meticulous plans not just for environmental and energizing the communities we work in. We will
+(GHG) emissions by 75%2
+Tech for good
+preservation, but also to develop people and serve the also redouble efforts to serve the interests of all our
+• Reducing absolute Scope 3 GHG emissions by 30%
+interests of our stakeholders. stakeholders, setting the benchmark in corporate Partner with society to harness the power of
+• Engaging clients on climate actions through our
+governance, ethics and transparency, data privacy and technology solutions in their everyday
+We are committed to continuing this journey and solutions
+information management.
+therefore we undertook a review of the progress we Ambitions
+(1) Business travel, employee commute, and transmission and distribution
+made over the past decade on our sustainability goals losses • Empowering 80 Mn+ lives via tech for good
+(2) Corresponds to 75% renewable energy usage
+programs in e-governance, healthcare and
+education (2025)
+Water
+ESG – Governance framework
+Reduce our water footprint and enhance water Diversity and inclusion
+The Board instituted an Environmental, Social and
+availability in the communities where we operate
+Governance Committee (ESG Committee), with Foster diversity and nurture inclusion
+effect from April 14, 2021, to discharge its oversight Ambitions
+Ambitions
+The Board responsibility on matters related to organization-wide • Maintaining 100% wastewater recycling every year
+• Creating a gender-diverse workforce at Infosys,
+ESG initiatives, priorities, and leading ESG practices.
+with 45% women
+Kiran Mazumdar-Shaw, Lead Independent Director of
+ESG Committee Waste
+the Board, is the chairperson of the ESG Committee.
+Independent directors Chitra Nayak and Uri Levine are Reduce, reuse and recycle to minimize waste, including
+Energizing local communities
+ESG Operations Council the members of the committee. The ESG Committee e-waste
+Enable opportunities for communities locally
+will meet periodically and guide the Board in
+Ambitions
+discharging its responsibilities. • Ensuring zero waste to landfill Ambitions
+• Delivering 33% of work by leveraging flexible /
+remote work options
+“We are pleased to institute this new committee of our Board focused
+Employee wellness and experience
+on accelerating the integration of ESG factors into everything that we
+Ensure fulfilling careers for our employees
+do as a business. As a progressive company balancing financial return
+to investors with unwavering focus on being sustainable and socially Ambitions
+responsible, this initiative will help us nurture a well-governed model • Facilitating best-in-class employee experience and
+to realize the many aspirations on our ESG roadmap.” being recognized among the best employers in our
+key operating regions
+Kiran Mazumdar-Shaw
+Lead Independent Director and Chairperson, ESG Committee
+18 | Sharing an equitable and sustainable digital future Infosys Annual Report 2020-21 Infosys Annual Report 2020-21 Sharing an equitable and sustainable digital future | 19
+
+The Infosys Board of Directors
+energy efficiency, brown field modernization &
+Governance
+transformation, clean energy generation & trading,
+Vision and transportation electrification. In addition, we have
+Serve the interests of all our executed an MoU with British Petroleum for a strategic
+stakeholders by leading through collaboration to drive integrated energy offers to
+our core values reduce emissions at campuses and in cities.
+Material topics Tech for good
+In the new normal, when everyone has been forced to
+operate remotely, cloud and digital native, technology-
+Corporate governance
+led solutions and platforms have enabled businesses
+Be a leader and get benchmarked for world-class
+and governments to deal with the new conditions
+corporate governance
+and be resilient. Our #TechforGood initiative focuses
+Ambitions on making an impact across three key segments
+Nandan M. Nilekani Salil Parekh U.B. Pravin Rao
+• Bringing interests of all stakeholders to the fore – eGovernance, Healthcare and Education. Large,
+through our empowered, diverse and inclusive country-scale, multi-year, strategic ongoing initiatives Chairman Chief Executive Officer and Managing Director Chief Operating Officer and Whole-time Director
+Board in the areas of e-Governance and education across
+• Building sustainable and responsible supply chains India, Australia and the US focus on positively
+impacting and enhancing the experience of citizens.
+• Ensuring robust compliance and integrity practices
+Read more here: https://www.infosys.com/global-
+• Engaging with stakeholders through various
+resource/18/tech-good-compendium.pdf
+channels and earning trust through transparent
+communication Facilitating best-in-class employee experience
+We have amplified the reach and effectiveness of
+our wellness initiatives, in response to the disruption
+Data privacy
+caused by the pandemic, with digital experience
+Ensure the safety of stakeholder data touchpoints and a comprehensive 5C framework of
+Connect, Collaborate, Celebrate, Care and Culture.
+Ambitions
+Infosys’ investment in best-in-class people practices has
+• Adopting leading data privacy standards across
+received recognitions such as the Top Employers Global
+all global operations
+2021 certification in 20 countries across Europe, Middle
+East, Asia Pacific, and North America, as well as a Great
+Information management
+Place to Work® certification in India and the US, and
+Kiran Mazumdar-Shaw Michael Gibbs D. Sundaram
+Uphold the digital trust of our stakeholders ranking by Fortune among the Best Big Companies to
+Lead Independent Director Independent Director Independent Director
+Work For™ 2021 in the US.
+Ambitions
+• Being recognized as industry leader in our Leading with integrity
+information security practices Infosys has been recognized as one of the 2021 World’s
+Most Ethical Companies by Ethisphere Institute, US.
+Infosys is one of only four honorees in the Software
+and Services Industry globally and one of only three
+Our commitment to our ESG Vision 2030 is unwavering. honorees in India. Infosys was distinguished for its
+Fiscal 2021 has seen good progress in various goal undiluted commitment towards integrity and making
+areas. Some of these are highlighted here: value-based decisions. The recognition additionally
+spotlighted Infosys in the areas of ethics and
+Enabling clients on climate change solutions
+compliance, diversity, governance, and social initiatives.
+This year, Infosys successfully completed over 20
+projects facilitating the journey of its clients to combat For detailed information, please read our ESG Vision
+climate change through business-driven IT solutions 2030 and our ESG FY21 Report here:
+around CCUs, energy storage, next-generation https://www.infosys.com/about/corporate-
+Uri Levine Bobby Parikh Chitra Nayak
+innovative and sustainable products, renewables, responsibility.html
+Independent Director Additional and Independent Director Additional and Independent Director
+20 | Sharing an equitable and sustainable digital future Infosys Annual Report 2020-21 Infosys Annual Report 2020-21 The Infosys Board of Directors | 21

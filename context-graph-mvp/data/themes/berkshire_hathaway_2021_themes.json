@@ -1,0 +1,65 @@
+[
+  {
+    "label": "Berkshire's Performance vs. S&P",
+    "description": "The letter begins by presenting a detailed table comparing Berkshire Hathaway's annual percentage change in per-share market value against the S&P 500's performance with dividends included, spanning from 1965 to 2021.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "backward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "CompoundedAnnualGain\u20131965-2021 ............................................ 20.1% 10.5%",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Shareholder Communication Philosophy",
+    "description": "Buffett emphasizes the importance of direct and transparent communication with shareholders, treating them equally and maximizing their time to absorb information.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Our policy is to treat all shareholders equally.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Intrinsic Value Focus",
+    "description": "The primary duty is increasing the intrinsic value of shares, achieved through long-term business performance rather than short-term market moves.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "forward_looking",
+    "confidence_level": "definitive",
+    "key_quote": "That task has been my primary duty for 57 years.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Business-Picking over Stock-Picking",
+    "description": "Berkshire focuses on investing in businesses with durable economic advantages and first-class CEOs, rather than simply picking stocks for timely market moves.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Charlie and I are not stock-pickers; we are business-pickers.",
+    "cross_cultural_relevance": 5
+  },
+  {
+    "label": "Infrastructure Asset Supremacy",
+    "description": "Berkshire owns and operates more U.S.-based infrastructure assets than any other American corporation, a fact that has emerged organically.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Berkshire owns and operates more U.S.-based \u201cinfrastructure\u201d assets...than are owned and operated by any other American corporation.",
+    "cross_cultural_relevance": 4
+  },
+  {
+    "label": "Partnership with Government",
+    "description": "Berkshire acknowledges the financial partnership between the company and the U.S. government through substantial tax payments and the benefits of operating in America.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "Berkshire\u2019s prosperity has been fostered mightily because the company has operated in America.",
+    "cross_cultural_relevance": 4
+  },
+  {
+    "label": "Insurance Float Advantage",
+    "description": "Berkshire's insurance float has grown significantly and has proven to be a valuable and relatively cost-free source of investment capital.",
+    "sentiment_polarity": "positive",
+    "temporal_orientation": "both",
+    "confidence_level": "definitive",
+    "key_quote": "So far, this float has cost us less than nothing.",
+    "cross_cultural_relevance": 4
+  }
+]

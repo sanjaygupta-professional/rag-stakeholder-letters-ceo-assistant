@@ -1,0 +1,188 @@
+[
+  {
+    "company": "Berkshire Hathaway",
+    "year": 2021,
+    "publication_date": "2022-02-26",
+    "stock": {
+      "date_30d_before": "2022-01-27",
+      "date_on_or_near": "2022-02-25",
+      "date_7d_after": "2022-03-04",
+      "date_30d_after": "2022-03-28",
+      "price_30d_before": 307.67,
+      "price_on_date": 319.24,
+      "price_7d_after": 325.34,
+      "price_30d_after": 359.57,
+      "return_7d_pct": 1.91,
+      "return_30d_pct": 12.63
+    },
+    "benchmark": {
+      "date_30d_before": "2022-01-27",
+      "date_on_or_near": "2022-02-25",
+      "date_7d_after": "2022-03-04",
+      "date_30d_after": "2022-03-28",
+      "price_30d_before": 4326.51,
+      "price_on_date": 4384.65,
+      "price_7d_after": 4328.87,
+      "price_30d_after": 4575.52,
+      "return_7d_pct": -1.27,
+      "return_30d_pct": 4.35
+    },
+    "relative_return_7d_pct": 3.18,
+    "relative_return_30d_pct": 8.28
+  },
+  {
+    "company": "Berkshire Hathaway",
+    "year": 2022,
+    "publication_date": "2023-02-25",
+    "stock": {
+      "date_30d_before": "2023-01-26",
+      "date_on_or_near": "2023-02-24",
+      "date_7d_after": "2023-03-03",
+      "date_30d_after": "2023-03-27",
+      "price_30d_before": 310.95,
+      "price_on_date": 304.02,
+      "price_7d_after": 312.45,
+      "price_30d_after": 302.14,
+      "return_7d_pct": 2.77,
+      "return_30d_pct": -0.62
+    },
+    "benchmark": {
+      "date_30d_before": "2023-01-26",
+      "date_on_or_near": "2023-02-24",
+      "date_7d_after": "2023-03-03",
+      "date_30d_after": "2023-03-27",
+      "price_30d_before": 4060.43,
+      "price_on_date": 3970.04,
+      "price_7d_after": 4045.64,
+      "price_30d_after": 3977.53,
+      "return_7d_pct": 1.9,
+      "return_30d_pct": 0.19
+    },
+    "relative_return_7d_pct": 0.87,
+    "relative_return_30d_pct": -0.81
+  },
+  {
+    "company": "Berkshire Hathaway",
+    "year": 2023,
+    "publication_date": "2024-02-24",
+    "stock": {
+      "date_30d_before": "2024-01-25",
+      "date_on_or_near": "2024-02-23",
+      "date_7d_after": "2024-03-01",
+      "date_30d_after": "2024-03-25",
+      "price_30d_before": 380.85,
+      "price_on_date": 417.22,
+      "price_7d_after": 407.11,
+      "price_30d_after": 409.92,
+      "return_7d_pct": -2.42,
+      "return_30d_pct": -1.75
+    },
+    "benchmark": {
+      "date_30d_before": "2024-01-25",
+      "date_on_or_near": "2024-02-23",
+      "date_7d_after": "2024-03-01",
+      "date_30d_after": "2024-03-25",
+      "price_30d_before": 4894.16,
+      "price_on_date": 5088.8,
+      "price_7d_after": 5137.08,
+      "price_30d_after": 5218.19,
+      "return_7d_pct": 0.95,
+      "return_30d_pct": 2.54
+    },
+    "relative_return_7d_pct": -3.37,
+    "relative_return_30d_pct": -4.29
+  },
+  {
+    "company": "Infosys",
+    "year": 2021,
+    "publication_date": "2021-07-01",
+    "stock": {
+      "date_30d_before": "2021-06-01",
+      "date_on_or_near": "2021-07-01",
+      "date_7d_after": "2021-07-08",
+      "date_30d_after": "2021-07-30",
+      "price_30d_before": 17.13,
+      "price_on_date": 18.64,
+      "price_7d_after": 18.63,
+      "price_30d_after": 19.67,
+      "return_7d_pct": -0.05,
+      "return_30d_pct": 5.53
+    },
+    "benchmark": {
+      "date_30d_before": "2021-05-31",
+      "date_on_or_near": "2021-06-30",
+      "date_7d_after": "2021-07-07",
+      "date_30d_after": "2021-07-29",
+      "price_30d_before": 27144.4,
+      "price_on_date": 29003.1,
+      "price_7d_after": 28749.0,
+      "price_30d_after": 30480.05,
+      "return_7d_pct": -0.88,
+      "return_30d_pct": 5.09
+    },
+    "relative_return_7d_pct": 0.83,
+    "relative_return_30d_pct": 0.44
+  },
+  {
+    "company": "Infosys",
+    "year": 2022,
+    "publication_date": "2022-07-01",
+    "stock": {
+      "date_30d_before": "2022-06-01",
+      "date_on_or_near": "2022-07-01",
+      "date_7d_after": "2022-07-08",
+      "date_30d_after": "2022-08-01",
+      "price_30d_before": 17.26,
+      "price_on_date": 17.1,
+      "price_7d_after": 17.29,
+      "price_30d_after": 17.8,
+      "return_7d_pct": 1.11,
+      "return_30d_pct": 4.08
+    },
+    "benchmark": {
+      "date_30d_before": "2022-05-31",
+      "date_on_or_near": "2022-06-30",
+      "date_7d_after": "2022-07-07",
+      "date_30d_after": "2022-07-31",
+      "price_30d_before": 29260.75,
+      "price_on_date": 28064.25,
+      "price_7d_after": 28250.3,
+      "price_30d_after": 29220.0,
+      "return_7d_pct": 0.66,
+      "return_30d_pct": 4.12
+    },
+    "relative_return_7d_pct": 0.45,
+    "relative_return_30d_pct": -0.04
+  },
+  {
+    "company": "Infosys",
+    "year": 2023,
+    "publication_date": "2023-07-01",
+    "stock": {
+      "date_30d_before": "2023-06-01",
+      "date_on_or_near": "2023-06-30",
+      "date_7d_after": "2023-07-07",
+      "date_30d_after": "2023-07-31",
+      "price_30d_before": 14.71,
+      "price_on_date": 14.93,
+      "price_7d_after": 14.91,
+      "price_30d_after": 15.48,
+      "return_7d_pct": -0.12,
+      "return_30d_pct": 3.67
+    },
+    "benchmark": {
+      "date_30d_before": "2023-05-31",
+      "date_on_or_near": "2023-06-29",
+      "date_7d_after": "2023-07-06",
+      "date_30d_after": "2023-07-30",
+      "price_30d_before": 29446.25,
+      "price_on_date": 29563.0,
+      "price_7d_after": 29560.45,
+      "price_30d_after": 29928.45,
+      "return_7d_pct": -0.01,
+      "return_30d_pct": 1.24
+    },
+    "relative_return_7d_pct": -0.11,
+    "relative_return_30d_pct": 2.43
+  }
+]

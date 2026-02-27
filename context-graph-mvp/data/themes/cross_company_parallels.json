@@ -1,0 +1,83 @@
+[
+  {
+    "berkshire_theme_label": "Shareholder Communication Philosophy",
+    "infosys_theme_label": "Customer Experience Enhancement",
+    "similarity_score": 0.6,
+    "parallel_description": "Both companies emphasize the importance of clear and direct communication, Berkshire with its shareholders and Infosys with its customers, to foster trust and understanding.",
+    "cultural_difference": "Berkshire focuses on equitable treatment of shareholders, reflecting a US-centric governance view, while Infosys prioritizes enhancing customer experience, aligning with a more service-oriented approach common in the IT sector.",
+    "shared_driver": "The need to maintain stakeholder confidence and loyalty in a volatile economic environment, driven by factors like inflation and geopolitical instability.",
+    "year": 2021
+  },
+  {
+    "berkshire_theme_label": "Business-Picking over Stock-Picking",
+    "infosys_theme_label": "Strategic Partnerships Value",
+    "similarity_score": 0.5,
+    "parallel_description": "Both companies prioritize strategic, long-term relationships, with Berkshire focusing on businesses with durable advantages and Infosys emphasizing partnerships to enhance service delivery and innovation.",
+    "cultural_difference": "Berkshire's approach reflects a value investing philosophy common in the US, while Infosys's partnership focus aligns with the collaborative nature of the global IT services industry.",
+    "shared_driver": "The need to build resilience and competitive advantage in a rapidly changing global market, requiring both careful selection of investments and strategic alliances.",
+    "year": 2021
+  },
+  {
+    "berkshire_theme_label": "Intrinsic Value Focus",
+    "infosys_theme_label": "Infosys Market Leadership",
+    "similarity_score": 0.55,
+    "parallel_description": "Both companies highlight their focus on long-term value creation, with Berkshire emphasizing intrinsic value and Infosys asserting its market leadership position.",
+    "cultural_difference": "Berkshire's focus on intrinsic value is rooted in a US-centric, fundamental analysis approach, while Infosys's emphasis on market leadership reflects a more competitive and growth-oriented Indian business culture.",
+    "shared_driver": "The need to demonstrate sustained performance and attract investment in a context of economic uncertainty and increasing competition.",
+    "year": 2021
+  },
+  {
+    "berkshire_theme_label": "Shareholder Trust and Values",
+    "infosys_theme_label": "Stakeholder Value Creation",
+    "similarity_score": 0.7,
+    "parallel_description": "Both companies emphasize the importance of building and maintaining trust with their stakeholders, be it shareholders for Berkshire or a broader group for Infosys.",
+    "cultural_difference": "Berkshire focuses on shareholder trust, reflecting a US-centric investor-focused model, while Infosys adopts a broader stakeholder approach, potentially influenced by Indian business ethics emphasizing community and social responsibility.",
+    "shared_driver": "A general need for companies to demonstrate ethical behavior and long-term value creation to maintain investor and public confidence, especially during times of economic uncertainty.",
+    "year": 2022
+  },
+  {
+    "berkshire_theme_label": "Business-Picking over Stock-Picking",
+    "infosys_theme_label": "Digital Transformation Strategy",
+    "similarity_score": 0.5,
+    "parallel_description": "Both companies focus on identifying and investing in businesses (or strategies) with strong fundamentals and long-term potential, rather than engaging in short-term speculation.",
+    "cultural_difference": "Berkshire's business-picking reflects a value investing approach common in US markets, while Infosys' digital transformation strategy is tailored to the Indian IT services market and global clients' needs.",
+    "shared_driver": "The need to adapt to a changing economic and technological landscape, requiring a focus on long-term value creation rather than short-term gains.",
+    "year": 2022
+  },
+  {
+    "berkshire_theme_label": "Market Inefficiency Recognition",
+    "infosys_theme_label": "Dynamic Technology Landscape",
+    "similarity_score": 0.6,
+    "parallel_description": "Both companies acknowledge the dynamic and sometimes unpredictable nature of their respective markets (stock market for Berkshire, technology landscape for Infosys) and the need to adapt and capitalize on opportunities.",
+    "cultural_difference": "Berkshire's focus is on exploiting market inefficiencies in the US stock market, while Infosys navigates the rapidly evolving global technology landscape, reflecting different market contexts.",
+    "shared_driver": "The inherent uncertainty and volatility in global markets, requiring companies to be agile and responsive to change.",
+    "year": 2022
+  },
+  {
+    "berkshire_theme_label": "Importance of Trustworthy Management",
+    "infosys_theme_label": "Employee Engagement and Upskilling",
+    "similarity_score": 0.6,
+    "parallel_description": "Both letters emphasize the importance of their people, with Berkshire focusing on trustworthy managers and Infosys highlighting employee engagement and upskilling.",
+    "cultural_difference": "Berkshire's focus is on the character of a few key leaders, reflecting a more centralized, owner-operator model, while Infosys emphasizes broader employee engagement, reflecting a more distributed, professional services model common in Indian IT companies.",
+    "shared_driver": "The need to retain talent and ensure effective leadership in a competitive global market.",
+    "year": 2023
+  },
+  {
+    "berkshire_theme_label": "Shareholder Communication Philosophy",
+    "infosys_theme_label": "Integrated Reporting Framework",
+    "similarity_score": 0.7,
+    "parallel_description": "Both companies prioritize transparent communication, with Berkshire focusing on direct shareholder communication and Infosys emphasizing integrated reporting according to international standards.",
+    "cultural_difference": "Berkshire's communication style is informal and direct, reflecting Buffett's personality, while Infosys adopts a more structured and standardized reporting approach, aligning with global corporate governance norms.",
+    "shared_driver": "Increasing demand for corporate transparency and accountability from investors and stakeholders globally.",
+    "year": 2023
+  },
+  {
+    "berkshire_theme_label": "Long-Term Investment Strategy",
+    "infosys_theme_label": "Value Creation Through Capitals",
+    "similarity_score": 0.65,
+    "parallel_description": "Both companies demonstrate a commitment to long-term value creation, with Berkshire focusing on enduring business economics and Infosys using a capitals-based framework to explain value creation.",
+    "cultural_difference": "Berkshire's long-term view is rooted in a concentrated portfolio of established businesses, while Infosys's long-term view is tied to its ability to adapt and innovate in the rapidly evolving technology landscape, reflecting the different industry dynamics.",
+    "shared_driver": "The need to demonstrate sustainable value creation to investors in an environment of increasing short-term market pressures.",
+    "year": 2023
+  }
+]
