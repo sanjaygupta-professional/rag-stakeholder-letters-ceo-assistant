@@ -70,29 +70,40 @@ _MERMAID_HTML = """<!DOCTYPE html>
 <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
 <script>
 mermaid.initialize({startOnLoad:true, theme:'base',
-  themeVariables:{fontSize:'15px', fontFamily:'Inter, sans-serif',
-    primaryColor:'#DDEFEF', lineColor:'#898584'}});
+  themeVariables:{fontSize:'14px', fontFamily:'Inter, sans-serif',
+    primaryColor:'#DDEFEF', lineColor:'#898584'},
+  flowchart:{padding:20}});
 document.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => {
     const svg = document.querySelector('.mermaid svg');
-    if (svg) { svg.style.width = '100%'; svg.style.maxWidth = '100%'; }
-  }, 200);
+    if (svg) {
+      // Scale diagram to fit container without truncating text
+      const container = svg.parentElement;
+      const svgW = svg.getBBox().width + 20;
+      const containerW = container.clientWidth || 800;
+      const scale = Math.min(1, containerW / svgW);
+      svg.style.width = svgW + 'px';
+      svg.style.maxWidth = 'none';
+      svg.style.transform = 'scale(' + scale + ')';
+      svg.style.transformOrigin = 'top left';
+    }
+  }, 300);
 });
 </script>
 <style>
   body{margin:0;padding:8px 0;background:#F7F6F5;overflow:hidden;}
   .mermaid{text-align:center;}
-  .mermaid svg{width:100% !important;max-width:100% !important;height:auto !important;}
+  .mermaid svg{height:auto !important;}
 </style>
 </head><body>
 <pre class="mermaid">
-%%{init:{'flowchart':{'nodeSpacing':25,'rankSpacing':60,'useMaxWidth':true}}}%%
+%%{init:{'flowchart':{'nodeSpacing':40,'rankSpacing':70,'useMaxWidth':false,'padding':20}}}%%
 graph LR
-    Q["Query"] --> IC["Intent\nClassifier"]
-    IC -->|"Cypher"| KG["Knowledge Graph\n(Neo4j)"]
-    IC -->|"Embed"| RAG["Vector Search\n(ChromaDB)"]
-    KG --> S1["LLM Synthesis\n(Graph)"]
-    RAG --> S2["LLM Synthesis\n(RAG)"]
+    Q["Query"] --> IC["Intent\nClassify"]
+    IC -->|"Cypher"| KG["Neo4j\nGraph"]
+    IC -->|"Embed"| RAG["ChromaDB\nVector"]
+    KG --> S1["LLM\n(Graph)"]
+    RAG --> S2["LLM\n(RAG)"]
     S1 --> CMP["Compare"]
     S2 --> CMP
     CMP --> OUT["Results"]
@@ -118,7 +129,7 @@ def render_pipeline(result: dict, demo_num: int | None):
         demo_num: Demo query number (1-5) or None for free-text.
     """
     st.subheader("Pipeline View: How the System Processes Your Query")
-    components.html(_MERMAID_HTML, height=300)
+    components.html(_MERMAID_HTML, height=350)
 
     intent = result.get("intent", {})
     query_text = result.get("query_text", intent.get("original_query", ""))
