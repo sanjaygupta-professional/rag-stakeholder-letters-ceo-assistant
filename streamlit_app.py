@@ -29,7 +29,7 @@ COMPARISONS_DIR = "data/comparisons"
 
 # ── Page config ────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Context Graph: Executive Communication Intelligence",
+    page_title="CEO Letter Analyzer",
     page_icon="📊",
     layout="wide",
 )
@@ -37,8 +37,8 @@ st.set_page_config(
 from src.demo.arena_style import inject_arena_css, COMPANY_COLORS, SENTIMENT_COLORS, EDGE_COLORS, PYVIS_BG, PYVIS_FONT_COLOR, ARENA
 inject_arena_css()
 
-st.title("Context Graph for Executive Communication Intelligence")
-st.caption("A Knowledge Graph Approach to Shareholder Letter Analysis  |  DBA Capstone — GGU")
+st.title("CEO Letter Analyzer")
+st.caption("Decode what CEOs really say in shareholder letters — and how markets respond  |  DBA Capstone — GGU")
 
 # ── Demo query definitions ─────────────────────────────────────────────
 DEMO_QUERIES = {
@@ -124,17 +124,17 @@ def display_comparison(result: dict):
 
     with col1:
         st.markdown("### Knowledge Graph Response")
-        st.markdown("*Rich context: market data, themes, cross-company relationships, temporal patterns*")
+        st.markdown("*Connects the dots: links CEO themes to market data, cross-company patterns, and year-over-year shifts*")
         st.markdown(result.get("graph_response", "No graph response available."))
 
     with col2:
         st.markdown("### Baseline RAG Response")
-        st.markdown("*Simple: raw text search only, no graph context*")
+        st.markdown("*Text search only: finds relevant passages but doesn't connect them to market data or other companies*")
         st.markdown(result.get("rag_response", "No RAG response available."))
 
     # Comparison analysis
     st.divider()
-    st.subheader("What the Graph Adds")
+    st.subheader("Why Connections Matter")
     st.markdown(result.get("comparison", "No comparison available."))
 
 
@@ -214,19 +214,26 @@ with st.sidebar:
     st.markdown(f"- Cached results: {cached_count}/5 queries")
 
     st.divider()
-    st.header("About")
+    st.header("What This Does")
     st.markdown("""
-    **Thesis:** Contextual knowledge graphs outperform flat RAG for extracting
-    executive communication intelligence from shareholder letters.
+    **For:** Investors, analysts, and board members who read annual
+    shareholder letters and want to spot patterns faster.
 
-    **Data:** 6 letters (Berkshire Hathaway + Infosys, 2021-2023)
+    **How:** We compare two AI approaches side-by-side on the same question —
+    one that understands *connections* between companies, themes, and market
+    data (Knowledge Graph), and one that only searches raw text (Baseline RAG).
 
-    **Approach:** Side-by-side comparison of Knowledge Graph vs baseline RAG
-    on identical queries.
+    **Data:** 6 CEO letters — Warren Buffett (Berkshire Hathaway) and
+    Salil Parekh (Infosys), 2021–2023 — enriched with market data
+    from before and after each letter's release.
+
+    **You'll see:** Which approach surfaces deeper insights — cross-company
+    patterns, cultural differences in CEO communication, and how markets
+    reacted to what was said.
     """)
 
 # Pre-built demo queries
-st.subheader("Pre-Built Demo Queries")
+st.subheader("Try a Question")
 cols = st.columns(5)
 selected_demo = None
 
@@ -280,4 +287,4 @@ if result:
 elif view == "Graph Visualization":
     show_graph_visualization()
 else:
-    st.info("Select a demo query above or type your own question to get started.")
+    st.info("Pick a question above or type your own to see how both AI approaches compare.")
